@@ -108,20 +108,3 @@ Add graphical visualization of numerical methods
 Support additional numerical techniques
 
 Enhance UI for better interactivity
-
-
-
-
-
-لو حابة:
-
-أظبطه حسب لغة البرمجة اللي استخدمتيها
-
-أضيف Usage Examples
-
-أعمل نسخة أقصر أو أطول
-
-أظبطه مخصوص لـ CV / Portfolio
-
-
-قولي وأنا أكمّلهولك جاهز للنشر 💙
